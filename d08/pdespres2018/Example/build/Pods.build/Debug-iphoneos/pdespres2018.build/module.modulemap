@@ -1,0 +1,11 @@
+framework module pdespres2018 {
+  umbrella header "pdespres2018-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module pdespres2018.Swift {
+    header "pdespres2018-Swift.h"
+    requires objc
+}

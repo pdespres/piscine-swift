@@ -1,0 +1,11 @@
+#use_frameworks!
+
+target 'pdespres2018_Example' do
+  pod 'pdespres2018', :path => '../'
+
+  target 'pdespres2018_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
