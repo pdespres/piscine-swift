@@ -1,0 +1,16 @@
+PODS:
+  - pdespres2018 (0.1.0)
+
+DEPENDENCIES:
+  - pdespres2018 (from `../d08/pdespres2018/`)
+
+EXTERNAL SOURCES:
+  pdespres2018:
+    :path: ../d08/pdespres2018/
+
+SPEC CHECKSUMS:
+  pdespres2018: 4b49ffca6626d3a7365f1be1614c3d716dff22ca
+
+PODFILE CHECKSUM: c4338995a6d8cbc600ac5cc6e68cc1da0a45826f
+
+COCOAPODS: 1.3.1

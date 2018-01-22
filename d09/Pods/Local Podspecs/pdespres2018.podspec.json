@@ -1,0 +1,24 @@
+{
+  "name": "pdespres2018",
+  "version": "0.1.0",
+  "summary": "Project for school 42 @Paris",
+  "description": "Pod aiming at creating a CoreData pod managing Articles as a school project for 42 @Paris",
+  "homepage": "https://github.com/pdespres/pdespres2018",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pdespres@student.42.fr": "pdespres@student.42.fr"
+  },
+  "source": {
+    "git": "https://github.com/pdespres/pdespres2018.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "pdespres2018/Classes/**/*",
+  "resources": "pdespres2018/Assets/*.xcdatamodeld",
+  "frameworks": "CoreData"
+}
